@@ -38,7 +38,7 @@ Grafana is an open-source platform for monitoring and observability. It provides
     ```
 
 ### Install Grafana
-1. Download Grafana from the official Grafana website.
+1. Download [Grafana](https://grafana.com/grafana/download) from the official Grafana website.
 2. Follow the installation instructions for your operating system.
 3. Start Grafana by running:
     ```bash
